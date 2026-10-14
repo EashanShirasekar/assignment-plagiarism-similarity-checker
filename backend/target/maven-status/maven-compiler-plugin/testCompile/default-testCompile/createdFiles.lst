@@ -1,0 +1,7 @@
+com\example\plagiarismchecker\service\AnalysisServiceTest.class
+com\example\plagiarismchecker\service\CosineSimilarityCalculatorTest.class
+com\example\plagiarismchecker\service\TfIdfCalculatorTest.class
+com\example\plagiarismchecker\service\TextPreprocessorTest.class
+com\example\plagiarismchecker\service\SubmissionServiceTest.class
+com\example\plagiarismchecker\integration\EndToEndWorkflowIntegrationTest.class
+com\example\plagiarismchecker\service\AssignmentServiceTest.class

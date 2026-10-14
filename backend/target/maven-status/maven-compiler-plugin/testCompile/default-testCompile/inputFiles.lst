@@ -1,0 +1,7 @@
+D:\Assignment_PlagiarismSimilarity_Checker\backend\src\test\java\com\example\plagiarismchecker\service\SubmissionServiceTest.java
+D:\Assignment_PlagiarismSimilarity_Checker\backend\src\test\java\com\example\plagiarismchecker\service\AnalysisServiceTest.java
+D:\Assignment_PlagiarismSimilarity_Checker\backend\src\test\java\com\example\plagiarismchecker\service\TextPreprocessorTest.java
+D:\Assignment_PlagiarismSimilarity_Checker\backend\src\test\java\com\example\plagiarismchecker\service\CosineSimilarityCalculatorTest.java
+D:\Assignment_PlagiarismSimilarity_Checker\backend\src\test\java\com\example\plagiarismchecker\service\AssignmentServiceTest.java
+D:\Assignment_PlagiarismSimilarity_Checker\backend\src\test\java\com\example\plagiarismchecker\service\TfIdfCalculatorTest.java
+D:\Assignment_PlagiarismSimilarity_Checker\backend\src\test\java\com\example\plagiarismchecker\integration\EndToEndWorkflowIntegrationTest.java
